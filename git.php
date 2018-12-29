@@ -3,9 +3,20 @@
 
 $var='dd';
 
+/**
+funny hate this 
+**/
 
-function pleaSeme(){
+
+
+function pleaSeme($dd){
 	
 	return true;
 }
+
+
+
+
+
+
 ?>
