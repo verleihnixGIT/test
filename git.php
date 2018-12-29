@@ -1,22 +1,14 @@
-<?
+<?php
+
+declare(strict_types=1);
 // comment
 
-$var='dd';
+$var = 'dd';
 
 /**
-funny hate this 
-**/
-
-
-
-function pleaSeme($dd){
-	
-	return true;
+ * funny hate this.
+ **/
+function pleaSeme($dd)
+{
+    return true;
 }
-
-
-
-
-
-
-?>
