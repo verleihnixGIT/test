@@ -3,9 +3,9 @@
 
 $var='dd';
 
-/**
-funny hate this 
-**/
+/*
+ funny hate this 
+*/
 
 
 
